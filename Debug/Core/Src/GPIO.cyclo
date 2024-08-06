@@ -1,0 +1,4 @@
+GPIO.c:3:6:GPIO_Init	1
+GPIO.c:10:6:SON_GPIO_Initialize	3
+GPIO.c:31:6:SON_GPIO_WritePin	3
+GPIO.c:43:22:SON_GPIO_ReadPin	1

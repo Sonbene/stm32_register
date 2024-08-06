@@ -1,0 +1,4 @@
+../Core/Src/delay.c:6:6:SON_Delay_Init	16	static
+../Core/Src/delay.c:13:6:SON_Delay	16	static
+../Core/Src/delay.c:19:6:SysTick_Handler	4	static
+../Core/Src/delay.c:26:10:SON_GetTick	4	static

@@ -1,0 +1,3 @@
+I2C.c:14:6:SON_I2C1_Master_Init	2
+I2C.c:62:6:SON_I2C_Master_Transmit	8
+I2C.c:95:6:SON_I2C_Master_Receive	13

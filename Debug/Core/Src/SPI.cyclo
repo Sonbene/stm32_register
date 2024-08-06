@@ -1,0 +1,3 @@
+SPI.c:18:6:SON_SPI1_Init	1
+SPI.c:58:6:SON_SPI1_Transmit_Data	5
+SPI.c:77:6:SON_SPI1_Receive_Data	6
