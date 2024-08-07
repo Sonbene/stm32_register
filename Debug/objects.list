@@ -1,3 +1,4 @@
+"./Core/Src/ADC.o"
 "./Core/Src/GPIO.o"
 "./Core/Src/GPIO_interrupt.o"
 "./Core/Src/I2C.o"
